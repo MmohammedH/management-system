@@ -10,7 +10,7 @@ using namespace std;
 void addData(void);
 void viewData(void);
 void mainMenu(void);
-//void updateData(void);
+void updateData(void);
 void deleteData(void);
 void adminVerification(void);
 void studentFunction(void);
@@ -222,7 +222,7 @@ void deleteData()
     adminFunction();
 }
 
-/*
+
 void updateData()
 {
     system("cls");
@@ -363,7 +363,6 @@ void updateData()
     
 }
 
-*/
 void addData()
 {
     system("cls");

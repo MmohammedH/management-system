@@ -11,7 +11,7 @@ A console-based C++ application to manage student records using file handling. T
 - 📋 View All Records
 - ✏️ Update Existing Record
 - ❌ Delete Record by Roll Number
-- 💾 Data stored in `student.csv` file
+- 💾 Data stored in `csv` file
 - 💻 Console-based UI with loading animation
 
 ---
@@ -20,5 +20,5 @@ A console-based C++ application to manage student records using file handling. T
 
 - **Language**: C++
 - **File Storage**: CSV (Comma Separated Values)
-- **Console Effects**: `windows.h` for color and animation
+- **Console Effects**: `loading.h` for color and animation
 
